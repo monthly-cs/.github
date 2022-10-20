@@ -1,3 +1,0 @@
-# monthly cs
-
-hello, visitor
