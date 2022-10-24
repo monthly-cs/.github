@@ -26,7 +26,7 @@
 
 ---
 
-## Operation System
+## Operation System (28)
 
 ### 개론 (5) 
 
