@@ -22,7 +22,7 @@
 | 기간 | 설명 | 대표 게시글 | 기여자 | 시험 우승자 |
 | ---- | ---- | ---------- | ----- | ------------ |
 | 22.10 | 팀 결성 | - | @unchaptered, @kwanyung | - |
-| 22.11 | [1. 컴퓨터 개론(repo)]() | [컴퓨터개론 지금 괜찮은가? ex]() | @unchaptered, @kwanyung, @codeing999 | - |
+| 22.11 | [운영체제 part.1](https://github.com/monthly-cs/2022-11) | [컴퓨터개론 지금 괜찮은가? ex]() | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
 
 ---
 
