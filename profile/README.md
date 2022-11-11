@@ -74,6 +74,7 @@
 ### Cache (1)
 
 1. 캐시의 지역성
+2. 캐시의 동작 원리
 
 ### Storage Management (2)
 
