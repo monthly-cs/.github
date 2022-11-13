@@ -49,10 +49,10 @@
 ### CPU Scheduling (5)
 
 1. 스케줄러의 정의 및 종류
-2. 동기와 비동기
-3. 프로세스 동기화의 정의, 문제점, 해결책
-4. 스케쥴러(장기, 중기, 단기)
-5. CPU 스케쥴러(FCFS, SJF, SRTF, Priority Scheduling, RR)
+2. 스케쥴러(장기, 중기, 단기)
+3. CPU 스케쥴러(FCFS, SJF, SRTF, Priority Scheduling, RR)
+4. 동기와 비동기
+5. 프로세스 동기화의 정의, 문제점, 해결책
 
 ### Synchronization (3)
 
