@@ -23,6 +23,7 @@
 | ---- | ---- | ---------- | ----- | ------------ |
 | 22.10 | 팀 결성 | - | @unchaptered, @kwanyung | - |
 | 22.11 | [운영체제 part.1](https://github.com/monthly-cs/2022-11) | [컴퓨터개론 지금 괜찮은가? ex]() | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
+| 22.12 | [운영체제 part.2](https://github.com/monthly-cs/2022-12) | - | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
 
 ---
 
