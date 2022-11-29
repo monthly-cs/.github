@@ -22,7 +22,7 @@
 | 기간 | 설명 | 대표 게시글 | 기여자 | 시험 우승자 |
 | ---- | ---- | ---------- | ----- | ------------ |
 | 22.10 | 팀 결성 | - | @unchaptered, @kwanyung | - |
-| 22.11 | [운영체제 part.1](https://github.com/monthly-cs/2022-11) | [컴퓨터개론 지금 괜찮은가? ex]() | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
+| 22.11 | [운영체제 part.1](https://github.com/monthly-cs/2022-11) | [@unchaptered/System Call](https://github.com/monthly-cs/2022-11/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EB%A1%A0/3.%20System%20Call.md) | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
 | 22.12 | [운영체제 part.2](https://github.com/monthly-cs/2022-12) | - | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
 
 ---
