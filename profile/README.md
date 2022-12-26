@@ -23,7 +23,7 @@
 | ---- | ---- | ---------- | ----- | ------------ |
 | 22.10 | 팀 결성 | - | @unchaptered, @kwanyung | - |
 | 22.11 | [운영체제 part.1](https://github.com/monthly-cs/2022-11) | [@unchaptered/System Call](https://github.com/monthly-cs/2022-11/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EB%A1%A0/3.%20System%20Call.md) | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
-| 22.12 | [운영체제 part.2](https://github.com/monthly-cs/2022-12) | - | @unchaptered, @kwanyung, @codeing999, @sumin-dev | - |
+| 22.12 | [운영체제 part.2](https://github.com/monthly-cs/2022-12) | [@kwanyung/동기화 객체의 종류](https://github.com/monthly-cs/2022-12/blob/main/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80%20%EC%8A%A4%EB%A0%88%EB%93%9C/5.%20%EB%8F%99%EA%B8%B0%ED%99%94%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EC%A2%85%EB%A5%98.md) | @unchaptered, @kwanyung, @codeing999, @sumin-dev | [@sumin-dev 👑](https://github.com/sumin-dev) |
 
 ---
 
