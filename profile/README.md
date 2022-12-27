@@ -27,14 +27,14 @@
 
 ---
 
-## Operation System (28)
+## Operation System (31)
 
 ### 개론 (5) 
 
 1. 운영체제란
 2. Interupt?
-3. System Call.
-4. 컴퓨터 시스템의 동작 원리
+3. System Call.  
+4. [컴퓨터 시스템의 동작 원리](https://github.com/monthly-cs/2022-11/blob/main/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EA%B0%9C%EB%A1%A0/4.%20%EC%BB%B4%ED%93%A8%ED%84%B0%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 5. Sync vs Async in OS
 
 ### 프로세스, 쓰레드 (7) 
@@ -72,15 +72,20 @@
 3. 메인 메모리와 페이징, 스와핑
 4. 가상 메모리와 디맨드 페이징, 세그멘테이션, 페이지 교체 알고리즘
 
-### Cache (1)
+### Cache (2)
 
-1. 캐시의 지역성
-2. 캐시의 동작 원리
+1. [캐시의 지역성](https://github.com/monthly-cs/2022-11/blob/main/%EC%BA%90%EC%8B%9C/1.%20%EC%BA%90%EC%8B%9C%EC%9D%98%20%EC%A7%80%EC%97%AD%EC%84%B1.md)
+2. [캐시의 동작 원리](https://github.com/monthly-cs/2022-11/blob/main/%EC%BA%90%EC%8B%9C/2.%20%EC%BA%90%EC%8B%9C%EC%9D%98%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC.md)
 
 ### Storage Management (2)
 
-1. File I/O
-2. File System
+1. [File System](https://github.com/monthly-cs/2022-12/blob/main/Storage%20Management/1.%20File%20system.md)
+2. [사용자 계정과 권한 부여](https://github.com/monthly-cs/2022-12/blob/main/Storage%20Management/2.%20%EC%82%AC%EC%9A%A9%EC%9E%90%20%EA%B3%84%EC%A0%95%EA%B3%BC%20%EA%B6%8C%ED%95%9C%20%EB%B6%80%EC%97%AC.md)
+
+### Security (2)
+
+1. [운영체제의 보안](https://github.com/monthly-cs/2022-12/blob/main/Security/1.%20%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98%20%EB%B3%B4%EC%95%88.md)
+2. [암호화](https://github.com/monthly-cs/2022-12/blob/main/Security/2.%20%EC%95%94%ED%98%B8%ED%99%94.md)
 
 ---
 
