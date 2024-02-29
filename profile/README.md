@@ -56,7 +56,7 @@
 | ---- | ---- | -------- | -------- |
 | 24.02 | IT 엔지니어을 위한 네트워크 입문 | [@unchaptered](https://github.com/unchaptered), [@playhuck](https://github.com/playhuck) | [kafkaaaa](https://github.com/orgs/monthly-cs/people/kafkaaaa), [minenam](https://github.com/orgs/monthly-cs/people/minenam), [smilejakdu](https://github.com/orgs/monthly-cs/people/smilejakdu), [jiwon615](https://github.com/orgs/monthly-cs/people/jiwon615), [brightchul](https://github.com/orgs/monthly-cs/people/brightchul), [sonmansu](https://github.com/orgs/monthly-cs/people/sonmansu), [refresh88](https://github.com/orgs/monthly-cs/people/refresh88), [sk-lim19f](https://github.com/orgs/monthly-cs/people/sk-lim19f), [seong-dev](https://github.com/orgs/monthly-cs/people/seong-dev) |
 | 24.03 | 가상 면접 사례로 배우는 대규모 시스템 설계 기초 | [@unchaptered](https://github.com/unchaptered), [@playhuck](https://github.com/playhuck) | |
-| 24.03 | 모던 리엑트 딥다이브 | [@Naru](https://github.com/Seokwoodang) | |
+| 24.03 | 모던 리액트 딥다이브 | [@Naru](https://github.com/Seokwoodang) | |
 
 - 2022 스터디 진행
 
