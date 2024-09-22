@@ -60,6 +60,11 @@
 | 24.04 | [React, Next 배포부터 배포자동화 까지](https://github.com/monthly-cs/2024-04-frontend-cicd/settings/access) | [@unchaptered](https://github.com/unchaptered), [@Seokwoodang](https://github.com/Seokwoodang), [@dusunax](https://github.com/dusunax) | - |
 | 24.05 | [이펙티브 타입스크립트](https://github.com/monthly-cs/2024-05-effective-typescript) | [@dusunax](https://github.com/dusunax) | - |
 | 24.05 | [분산 컴퓨팅](https://github.com/monthly-cs/2024-05-distributed-system) | [@unchaptered](https://github.com/unchaptered) | - |
+| 24.06 | [Next.js 14 & React - 완벽 가이드](https://github.com/monthly-cs/2024-06-nextjs) | [@Seokwoodang](https://github.com/Seokwoodang), [@dusunax](https://github.com/dusunax) | - |
+| 24.07 | [모던 자바스크립트 Deep Dive](https://github.com/monthly-cs/2024-07-modern-javascript-deep-dive) | [@iamkanguk97](https://github.com/iamkanguk97) | - |
+| 24.07 | [Next.js 14 & React - 완벽 가이드](https://github.com/monthly-cs/2024-06-nextjs) | [@Seokwoodang](https://github.com/Seokwoodang), [@dusunax](https://github.com/dusunax) | - |
+| 24.07 | 쿠버네티스 비기너 클래스 | [@unchaptered](https://github.com/unchaptered), [@playhuck](https://github.com/playhuck) | - |
+| 24.10 | 함수형 프로그래밍 | [@zzinao](https://github.com/zzinao) | - |
 
 - 2022 스터디 진행
 
